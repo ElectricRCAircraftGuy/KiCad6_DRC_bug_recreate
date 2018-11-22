@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:Bug1803485_attempt_to_recreate-cache
 EELAYER 28 0
 EELAYER END
 $Descr A4 11693 8268
