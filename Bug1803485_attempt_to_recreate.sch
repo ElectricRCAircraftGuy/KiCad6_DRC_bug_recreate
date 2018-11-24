@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 28 0
+LIBS:Bug1803485_attempt_to_recreate-cache
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -91,7 +92,7 @@ U 1 1 5BF649D3
 P 4200 3700
 F 0 "J1" H 4308 3881 50  0000 C CNN
 F 1 "Conn_01x02_Male" H 4308 3790 50  0000 C CNN
-F 2 "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" H 4200 3700 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 4200 3700 50  0001 C CNN
 F 3 "~" H 4200 3700 50  0001 C CNN
 	1    4200 3700
 	1    0    0    -1  
